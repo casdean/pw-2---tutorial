@@ -22,6 +22,7 @@
         </fieldset>
     </form>
     
+    
     <?php
     if (ISSET($_GET['valor1'])){
         if (empty($_GET['valor1'])) {
